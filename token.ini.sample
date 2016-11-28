@@ -1,0 +1,8 @@
+[production]
+token=xxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+secret=XXXxxxxxxxXXxXXXxxXxxxXXXXxxxxXxXxxXxxxxxXxXXxxxXxxxXXxxxxxxxxXX
+
+;[test]
+;token=xxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+;secret=XXXxxxxxxxXXxXXXxxXxxxXXXXxxxxXxXxxXxxxxxXxXXxxxXxxxXXxxxxxxxxXX
+
